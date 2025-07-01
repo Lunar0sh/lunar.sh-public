@@ -31,9 +31,6 @@ For the application to fully function, you need to provide your own NASA API key
 
 ## 🛠️ Technologies Used
 
-  - **HTML5**
-  - **CSS3** (with Custom Properties, Flexbox, and Grid)
-  - **JavaScript (ES6+)**
   - **SunCalc.js**: For detailed moon and sun calculations.
   - **ColorThief.js**: To extract a color palette from the daily background image for dynamic theming.
 
